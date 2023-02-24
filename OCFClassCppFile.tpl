@@ -28,5 +28,5 @@
 	{
 		//add code for all attributes which need to be copied here
 	}
-	return *this;
+	return (*this);
 }
