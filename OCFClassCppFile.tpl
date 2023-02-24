@@ -7,7 +7,7 @@
 
 // {{CLASS_NAME}}::{{CLASS_NAME}}(...)
 // {
-// 	std::cout << "Parametric constrctor called\n";
+// 	std::cout << "Parametric constructor called\n";
 // }
 
 {{CLASS_NAME}}::{{CLASS_NAME}}(const {{CLASS_NAME}}& source_class)
