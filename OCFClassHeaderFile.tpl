@@ -1,7 +1,7 @@
-#include <iostream>
-
 #ifndef {{UPPER_CLASS_NAME}}_HPP
 # define {{UPPER_CLASS_NAME}}_HPP
+
+#include <iostream>
 
 class {{CLASS_NAME}}
 {
