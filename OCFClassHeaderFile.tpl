@@ -5,6 +5,9 @@
 
 class {{CLASS_NAME}}
 {
+	private:
+		//add private elements here
+		
 	public:
 		//constructors/destructor
 		{{CLASS_NAME}}();
@@ -14,9 +17,6 @@ class {{CLASS_NAME}}
 
 		//assignment operator overloading
 		{{CLASS_NAME}}& operator=(const {{CLASS_NAME}}& source_class);
-    
-	private:
-		//add private elements here
 };
 
 #endif
